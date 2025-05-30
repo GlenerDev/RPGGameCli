@@ -37,6 +37,8 @@ namespace RPGGameCli.Services
             var Jogador1 = Console.ReadLine();
             var Jogador2 = Console.ReadLine();
             ListaDePartida.Add(new Partida(nomeDojogador1:Jogador1, nomeDojogador2:Jogador2));
+            int df = 24;
+            int fg = 3434;
         }
     }
 }
