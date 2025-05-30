@@ -12,12 +12,13 @@ namespace RPGGameCli.Services.Models
         public string Titulo { get; set; }
         public string Descricao { get; set; }
         public int Dano { get; set; }
-        public TipoDeDano TipoDeDano { get; set; }
+        public Tipo TipoDeDano { get; set; }
 
         public void MostrarCarta() 
         {
             Console.WriteLine($"TITULO: {Titulo}");
             Console.WriteLine($"DESCRIÇÃO: {Descricao}");
         }
+
     }
 }

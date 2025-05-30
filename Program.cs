@@ -6,7 +6,8 @@ namespace RPGGameCli.Services
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Time.ContagemDeRounds());
+            var game = new Game();
+            game.Run();
         }
     }
 }

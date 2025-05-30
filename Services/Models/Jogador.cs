@@ -48,9 +48,7 @@ namespace RPGGameCli.Services.Models
         }
         public void AdicionarCartasNaLista(Carta carta)
         {
-            if (carta.Tipo.)
-                carta. ;
-
+            
         }
     }
 }

@@ -21,7 +21,6 @@ namespace RPGGameCli.Services.Models
                 result++;
             }
             return result;
-            
         }
     }
 }
