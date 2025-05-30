@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\bin\Debug\net8.0\RPGGameCli.exe
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\bin\Debug\net8.0\RPGGameCli.deps.json
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\bin\Debug\net8.0\RPGGameCli.runtimeconfig.json
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\bin\Debug\net8.0\RPGGameCli.dll
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\bin\Debug\net8.0\RPGGameCli.pdb
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\RPGGameCli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\RPGGameCli.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\RPGGameCli.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\RPGGameCli.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\RPGGameCli.dll
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\refint\RPGGameCli.dll
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\RPGGameCli.pdb
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\RPGGameCli.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\ref\RPGGameCli.dll
