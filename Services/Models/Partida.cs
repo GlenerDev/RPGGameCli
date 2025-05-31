@@ -11,7 +11,7 @@ namespace RPGGameCli
 {
     internal class Partida
     {
-        public Time Tempo { get; set; }
+        public Time Tempo;
         public int Rounds { get; set; }
         public Jogador[] Jogadores = new Jogador[2];
         public Partida(string nomeDojogador1, string nomeDojogador2)
@@ -20,11 +20,14 @@ namespace RPGGameCli
             Jogadores[1].Nome = nomeDojogador2;
         }
 
-        public void ComeçarRounds()
+        public void ComecarRounds()
         {
-            
         }
+        public void DefinirTempoDePartida(int  tempoPersonalizado) 
+        {
 
+        
+        }
 
 
 

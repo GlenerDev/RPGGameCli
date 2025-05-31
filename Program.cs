@@ -6,8 +6,9 @@ namespace RPGGameCli.Services
     {
         static void Main(string[] args)
         {
-            var game = new Game();
-            game.Run();
+            Time.DefinicaoDeRounds(10);
+            //var game = new Game();
+            //game.Run();
         }
     }
 }

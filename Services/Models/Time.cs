@@ -13,14 +13,20 @@ namespace RPGGameCli.Services.Models
         public static int Segundos = 1;
 
 
-        public static int ContagemDeRounds() 
+        public static int DefinicaoDeRounds(int timeEmMinutos)
         {
-            var result = 0;
-            for ( int i = 0; i < Horas; i++) 
+            var retorno = 0;
+            if (int.TryParse(timeEmMinutos.ToString(), out int minutos) && timeEmMinutos > 0)
             {
-                result++;
+                retorno = timeEmMinutos * 60;
+                for (int i = 0; i < timeEmMinutos * 60; i++)
+                {
+                    Console.WriteLine($"{retorno / 60}:{retorno}");
+                    retorno %= 1;
+                    Thread.Sleep(1000);
+                }
             }
-            return result;
+            return retorno;
         }
     }
 }

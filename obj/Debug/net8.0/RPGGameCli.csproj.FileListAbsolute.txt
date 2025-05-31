@@ -12,3 +12,4 @@ C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0
 C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\RPGGameCli.pdb
 C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\RPGGameCli.genruntimeconfig.cache
 C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\ref\RPGGameCli.dll
+C:\Users\Pichau\Desktop\Projetos\RPGGames\RPGGameCli\RPGGameCli\obj\Debug\net8.0\RPGGameCli.sourcelink.json
