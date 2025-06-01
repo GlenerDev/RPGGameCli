@@ -23,11 +23,7 @@ namespace RPGGameCli
         public void ComecarRounds()
         {
         }
-        public void DefinirTempoDePartida(int  tempoPersonalizado) 
-        {
-
         
-        }
 
 
 

@@ -5,7 +5,7 @@ using System.Runtime.Intrinsics.Arm;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RPGGameCli.Services.Models
+namespace RPGGameCli.src.Services.Models
 {
     internal class Carta 
     {

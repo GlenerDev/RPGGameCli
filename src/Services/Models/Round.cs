@@ -1,6 +1,4 @@
-﻿using RPGGameCli.Services.Models;
-
-namespace RPGGameCli.Services
+﻿namespace RPGGameCli.src.Services.Models
 {
     internal class Round 
     {

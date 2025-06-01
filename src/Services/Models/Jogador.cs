@@ -12,13 +12,19 @@ namespace RPGGameCli.Services.Models
     internal class Jogador
     {
         public string Nome { get; set; }
-        private int Vida { get; set; } = 100;
+        private int Vida { get; set; } 
+        public Jogador() 
+        {
+            Vida = 100;
+            Vigor = 50;
+            Mana = 50;
+        }
         public int GetSetVida
         {
             get { return Vida; }
             set
             {
-                if (int.TryParse(value.ToString(), out int vidaRetirada))
+                if(int.Equals(TypeCode.Int64,23))
                 {
                     if (Vida <= 100 && value < 0 )
                     {
