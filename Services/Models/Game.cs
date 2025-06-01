@@ -34,7 +34,6 @@ namespace RPGGameCli.Services
         }
         public void CriarPartida()
         {
-            
             var Jogador1 = Console.ReadLine();
             var Jogador2 = Console.ReadLine();
             ListaDePartida.Add(new Partida(nomeDojogador1: Jogador1, nomeDojogador2: Jogador2));
