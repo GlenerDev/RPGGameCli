@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Transactions;
 
-namespace RPGGameCli.Services.Models
+namespace RPGGameCli.src.Services.Models
 {
     internal class Jogador
     {
@@ -24,7 +24,7 @@ namespace RPGGameCli.Services.Models
             get { return Vida; }
             set
             {
-                if(int.Equals(TypeCode.Int64,23))
+                if(Equals(TypeCode.Int64,23))
                 {
                     if (Vida <= 100 && value < 0 )
                     {

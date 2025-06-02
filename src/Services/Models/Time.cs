@@ -13,6 +13,7 @@ namespace RPGGameCli.Services.Models
         public static void DefinicaoDeRounds(int timeEmMinutos)
         {
             int MinutosEmSegudos = timeEmMinutos * Minutos;
+            int valororgiginal = MinutosEmSegudos;
             for (int contador = MinutosEmSegudos; contador > 0; contador--)
             {
                 Console.Write($"{contador / Minutos}:");

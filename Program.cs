@@ -1,4 +1,4 @@
-﻿using RPGGameCli.Services.Models;
+﻿using RPGGameCli.src.Services.Models;
 
 namespace RPGGameCli.Services
 {
@@ -7,7 +7,7 @@ namespace RPGGameCli.Services
         static void Main(string[] args)
         {
             var entrada = int.Parse(Console.ReadLine());
-            Time.DefinicaoDeRounds(entrada);
+            const teste = await Time.DefinicaoDeRounds(entrada);
             //var game = new Game();
             //game.Run();
         }

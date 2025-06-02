@@ -1,5 +1,4 @@
 ﻿using RPGGameCli.Services;
-using RPGGameCli.Services.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +6,7 @@ using System.Runtime.Intrinsics.X86;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RPGGameCli
+namespace RPGGameCli.src.Services.Models
 {
     internal class Partida
     {
@@ -23,9 +22,5 @@ namespace RPGGameCli
         public void ComecarRounds()
         {
         }
-        
-
-
-
     }
 }
