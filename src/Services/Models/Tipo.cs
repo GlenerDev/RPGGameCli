@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace RPGGameCli.src.Services.Models
 {
-        enum Tipo
-        {
-            Magia,
-            DanoFisico
-        }
+    enum Tipo
+    {
+        Magia,
+        DanoFisico
+    }
 }

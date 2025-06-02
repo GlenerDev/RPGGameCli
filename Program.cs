@@ -6,10 +6,8 @@ namespace RPGGameCli.Services
     {
         static void Main(string[] args)
         {
-            var entrada = int.Parse(Console.ReadLine());
-            const teste = await Time.DefinicaoDeRounds(entrada);
-            //var game = new Game();
-            //game.Run();
+            var game = new Game();
+            game.Run();
         }
     }
 }
