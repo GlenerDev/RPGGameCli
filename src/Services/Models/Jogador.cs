@@ -54,7 +54,11 @@ namespace RPGGameCli.src.Services.Models
 
         public List<Carta> ObterDeck()
         {
-            return Deck;
+            if (Deck != null)
+            {
+                return Deck;
+            }
+            throw new NotFiniteNumberException("A lista do deck pode esta vazio.");
         }
         public void AdicionarCartasNaLista(Carta carta)
         {
