@@ -13,32 +13,15 @@ namespace RPGGameCli.src.Services.Models
     {
         public string Nome { get; set; }
         private int Vida { get; set; }
-        public Jogador()
+
+        private int Vigor { get; set; }
+        private int Mana { get; set; }
+        private List<Carta> Deck = new List<Carta>();
+        public Jogador(string nome)
         {
             Vida = 100;
             Vigor = 50;
             Mana = 50;
-        }
-        public int GetSetVida
-        {
-            get { return Vida; }
-            set
-            {
-                if (Equals(TypeCode.UInt64))
-                {
-                    if (Vida <= 100 && value < 0)
-                    {
-                        Vida -= value;
-                    }
-                }
-            }
-        }
-        private int Vigor { get; set; } = 50;
-        private int Mana { get; set; } = 20;
-        private List<Carta> Deck { get; set; }
-
-        public Jogador(string nome)
-        {
             Nome = nome;
         }
         public void Atacar(Carta cartausada, Jogador oponente)
@@ -51,18 +34,9 @@ namespace RPGGameCli.src.Services.Models
             throw new NotImplementedException("os parametros estao incorreto, porfavor coloque na ordem correta ");
         }
         public void Enfeiticar() { }
-
-        public List<Carta> ObterDeck()
+        public void AdicionarCartasNoDeckDoJogador(string titulo, string descricao, int dano, Tipo tipo_de_dano)
         {
-            if (Deck != null)
-            {
-                return Deck;
-            }
-            throw new NotFiniteNumberException("A lista do deck pode esta vazio.");
-        }
-        public void AdicionarCartasNaLista(Carta carta)
-        {
-
+            Deck.Add(new Carta(titulo,descricao,dano,tipo_de_dano));
         }
     }
 }

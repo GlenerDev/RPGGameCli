@@ -12,11 +12,7 @@ namespace RPGGameCli.src.Services.Models
         public string Titulo { get; set; }
         public string Descricao { get; set; }
         public int Dano;
-        enum Tipo
-        {
-            Magia,
-            DanoFisico
-        }
+        public Tipo TipoDeDano { get; set; }
 
         public void MostrarCarta() 
         {

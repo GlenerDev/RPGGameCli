@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace RPGGameCli.src.Services.Models
 {
-    internal class Class1
+    enum Tipo
     {
+        Magia,
+        Fisico
     }
 }

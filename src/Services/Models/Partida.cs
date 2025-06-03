@@ -10,9 +10,9 @@ namespace RPGGameCli.src.Services.Models
 {
     internal class Partida
     {
-        public List<Carta> DeckPrincipal { get; set; }
+        public List<Carta> DeckPrincipal = new List<Carta>();
         public Time Tempo;
-        public int Rounds { get; set; }
+        public int Rounds = 4;
         public Jogador[] Jogadores = new Jogador[2];
         public Partida(string nomeDojogador1, string nomeDojogador2,int TempoRounds)
         {
@@ -23,6 +23,7 @@ namespace RPGGameCli.src.Services.Models
 
         public void ComecarRounds()
         {
+            
         }
     }
 }

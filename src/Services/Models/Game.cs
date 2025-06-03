@@ -11,10 +11,9 @@ namespace RPGGameCli.src.Services.Models
     internal class Game
     {
         public static List<Partida> ListaDePartida = new List<Partida>();
-        public async Task Run()
+        public void Run()
         {
-            Time.DefinicaoDeRounds(10);
-            //MenuOpcoes();
+            MenuOpcoes();
         }
         public void MenuOpcoes()
         {
@@ -35,9 +34,9 @@ namespace RPGGameCli.src.Services.Models
         }
         public void CriarPartida()
         {
-            string Jogador1 = Console.ReadLine();
-            string Jogador2 = Console.ReadLine();
-            ListaDePartida.Add(new Partida(nomeDojogador1: Jogador1, nomeDojogador2: Jogador2));
+            string? Jogador1 = Console.ReadLine();
+            string? Jogador2 = Console.ReadLine();
+            ListaDePartida.Add(new Partida(nomeDojogador1: Jogador1, nomeDojogador2: Jogador2,TempoRounds:10));
         }
     }
 }
