@@ -34,7 +34,9 @@ namespace RPGGameCli.src.Services.Models
         }
         public void CriarPartida()
         {
+            Console.Write("Coloque o nome do jogador 1:");
             string? Jogador1 = Console.ReadLine();
+            Console.Write("Coloque o nome do jogador 2:");
             string? Jogador2 = Console.ReadLine();
             ListaDePartida.Add(new Partida(nomeDojogador1: Jogador1, nomeDojogador2: Jogador2,TempoRounds:10));
         }

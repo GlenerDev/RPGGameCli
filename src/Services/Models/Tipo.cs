@@ -9,6 +9,7 @@ namespace RPGGameCli.src.Services.Models
     enum Tipo
     {
         Magia,
-        Fisico
+        Fisico,
+        Defesa
     }
 }

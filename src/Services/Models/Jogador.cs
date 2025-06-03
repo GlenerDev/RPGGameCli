@@ -12,16 +12,13 @@ namespace RPGGameCli.src.Services.Models
     internal class Jogador
     {
         public string Nome { get; set; }
-        private int Vida { get; set; }
+        public int Vida { get; private set; } = 100;
 
-        private int Vigor { get; set; }
-        private int Mana { get; set; }
+        private int Vigor { get; set; } = 50;
+        private int Mana { get; set; } = 50;
         private List<Carta> Deck = new List<Carta>();
         public Jogador(string nome)
         {
-            Vida = 100;
-            Vigor = 50;
-            Mana = 50;
             Nome = nome;
         }
         public void Atacar(Carta cartausada, Jogador oponente)
@@ -31,7 +28,6 @@ namespace RPGGameCli.src.Services.Models
                 oponente.Vida -= cartausada.Dano;
                 return;
             }
-            throw new NotImplementedException("os parametros estao incorreto, porfavor coloque na ordem correta ");
         }
         public void Enfeiticar() { }
         public void AdicionarCartasNoDeckDoJogador(string titulo, string descricao, int dano, Tipo tipo_de_dano)

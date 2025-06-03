@@ -8,6 +8,7 @@ namespace RPGGameCli.Services
         {
             var Game = new Game();
             Game.Run();
+
         }
     }
 }
