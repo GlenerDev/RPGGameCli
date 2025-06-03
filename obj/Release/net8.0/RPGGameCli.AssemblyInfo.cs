@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RPGGameCli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a5c79755912983cd419b24c0b296c791c9202fd")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a585039b2a5be74b0957251a226d386c52e92cb")]
+>>>>>>> 43e37dc4b7fd54a6ad2f5bc044f2eaeade685cb4
 [assembly: System.Reflection.AssemblyProductAttribute("RPGGameCli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RPGGameCli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
