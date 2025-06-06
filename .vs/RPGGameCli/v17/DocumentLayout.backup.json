@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|solutionrelative:rpggamecli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\src\\services\\models\\cartasdojogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|solutionrelative:rpggamecli\\src\\services\\models\\cartasdojogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\src\\services\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|solutionrelative:rpggamecli\\src\\services\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\src\\services\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|solutionrelative:rpggamecli\\src\\services\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\src\\services\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|solutionrelative:rpggamecli\\src\\services\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\src\\services\\models\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|solutionrelative:rpggamecli\\src\\services\\models\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\src\\services\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|solutionrelative:rpggamecli\\src\\services\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|solutionrelative:rpggamecli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\src\\services\\models\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,18 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\src\\services\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|solutionrelative:rpggamecli\\src\\services\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\src\\services\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|solutionrelative:rpggamecli\\src\\services\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\src\\services\\models\\cartasdojogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|solutionrelative:rpggamecli\\src\\services\\models\\cartasdojogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\src\\services\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|solutionrelative:rpggamecli\\src\\services\\models\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E636688E-5277-42A7-9668-8CD7236F0ECB}|RPGGameCli\\RPGGameCli.csproj|c:\\users\\pichau\\desktop\\projetos\\rpggames\\rpggamecli\\rpggamecli\\rpggamecli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,8 +69,12 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Time.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\src\\Services\\Models\\Time.cs",
               "RelativeDocumentMoniker": "RPGGameCli\\src\\Services\\Models\\Time.cs",
@@ -78,70 +82,69 @@
               "RelativeToolTip": "RPGGameCli\\src\\Services\\Models\\Time.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T01:18:36.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T01:18:36.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\Program.cs",
               "RelativeDocumentMoniker": "RPGGameCli\\Program.cs",
               "ToolTip": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\Program.cs",
               "RelativeToolTip": "RPGGameCli\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T00:03:33.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "CartasDoJogo.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\src\\Services\\Models\\CartasDoJogo.cs",
               "RelativeDocumentMoniker": "RPGGameCli\\src\\Services\\Models\\CartasDoJogo.cs",
               "ToolTip": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\src\\Services\\Models\\CartasDoJogo.cs",
               "RelativeToolTip": "RPGGameCli\\src\\Services\\Models\\CartasDoJogo.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T23:48:48.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Carta.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\src\\Services\\Models\\Carta.cs",
               "RelativeDocumentMoniker": "RPGGameCli\\src\\Services\\Models\\Carta.cs",
               "ToolTip": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\src\\Services\\Models\\Carta.cs",
               "RelativeToolTip": "RPGGameCli\\src\\Services\\Models\\Carta.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T23:48:45.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Jogador.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\src\\Services\\Models\\Jogador.cs",
               "RelativeDocumentMoniker": "RPGGameCli\\src\\Services\\Models\\Jogador.cs",
               "ToolTip": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\src\\Services\\Models\\Jogador.cs",
               "RelativeToolTip": "RPGGameCli\\src\\Services\\Models\\Jogador.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T20:41:23.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Round.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\src\\Services\\Models\\Round.cs",
               "RelativeDocumentMoniker": "RPGGameCli\\src\\Services\\Models\\Round.cs",
               "ToolTip": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\src\\Services\\Models\\Round.cs",
               "RelativeToolTip": "RPGGameCli\\src\\Services\\Models\\Round.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T19:02:12.449Z",
               "EditorCaption": ""
@@ -154,20 +157,20 @@
               "RelativeDocumentMoniker": "RPGGameCli\\src\\Services\\Models\\Partida.cs",
               "ToolTip": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\src\\Services\\Models\\Partida.cs",
               "RelativeToolTip": "RPGGameCli\\src\\Services\\Models\\Partida.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T19:02:04.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\src\\Services\\Models\\Game.cs",
               "RelativeDocumentMoniker": "RPGGameCli\\src\\Services\\Models\\Game.cs",
               "ToolTip": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\src\\Services\\Models\\Game.cs",
               "RelativeToolTip": "RPGGameCli\\src\\Services\\Models\\Game.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAnwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwC0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T18:57:03.262Z",
               "EditorCaption": ""
@@ -175,19 +178,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "RPGGameCli",
+              "Title": "RPGGameCli.csproj",
               "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\RPGGameCli.csproj",
               "RelativeDocumentMoniker": "RPGGameCli\\RPGGameCli.csproj",
               "ToolTip": "C:\\Users\\Pichau\\Desktop\\Projetos\\RPGGames\\RPGGameCli\\RPGGameCli\\RPGGameCli.csproj",
               "RelativeToolTip": "RPGGameCli\\RPGGameCli.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-03T18:56:57.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-06-03T18:56:57.742Z"
             }
           ]
         }
